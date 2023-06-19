@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+       <id>10</id>
+       <firstname>Victoriya </firstname>
+       <lastname>Kovtyk</lastname>
+       <age>19</age>
+       <birthday>15.02.2004</birthday>
+       <isalive>true</isalive>
+       <faculty>history</faculty>
+       <dateentry>16.06.2022</dateentry>
+    <address>
+        <streerAddress>Mykolaychyka 33</streerAddress>
+        <city>Chernivchi</city>
+        <postalCode>58012</postalCode>
+    </address>
+    <phoneNumbers>
+        <type>home</type>
+        <number>0372-5463728</number>
+        <type>mobile</type>
+        <number>09678547365</number>
+    </phoneNumbers>
+    <additionalcontactnumbers>
+        <father>0502362718</father>
+        <mother>0963462716</mother>
+    </additionalcontactnumbers>
+    <children></children>
+    <married>false</married>
+</student>

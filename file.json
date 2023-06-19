@@ -1,0 +1,37 @@
+{
+    "student": [
+        {
+           "id": "10",
+            "firstName": "Victoriya",
+            "lastName": "Kovtyk",
+            "age": 19,
+            "birthday": "15.02.2004",
+            "isAlive": true,
+            "faculty": "history",
+            "dateEntry": "16.06.2022",
+            "address": {
+                "streerAddress": "Mykolaychyka 33",
+                "city": "Chernivchi",
+                "postalCode": "58012"
+            },
+            "phoneNumbers": [
+                {
+                    "type": "home",
+                    "number": "0372-5463728"
+                },
+                {
+                    "type": "mobile",
+                    "number": "09678547365"
+                }
+            ],
+            "additionalcontactnumbers":[
+                {
+                    "father": "0502362718",
+                    "mother": "0963462716"
+                }
+            ],
+            "children": [],
+            "married": "false"
+        }
+    ]
+}
